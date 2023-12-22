@@ -22,8 +22,8 @@ Create the linearRegression model and predict the output
 
 ## Program:
 ```
-#DEVELOPED BY: NAVEEN S
-#REG NO: 212222240070
+#DEVELOPED BY: SUDHARSANA KUMAR S R
+#REG NO: 23007374
 import pandas as pd
 from sklearn import linear_model
 df =pd.read_csv("cars.csv")
